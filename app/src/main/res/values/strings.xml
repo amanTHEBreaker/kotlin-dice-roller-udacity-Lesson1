@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="Roll">roll</string>
+    <string name="textView">1</string>
+    <string name="nothing">nothing</string>
+    <!-- TODO (04) Extract the text from the button to strings.xml -->
+</resources>
