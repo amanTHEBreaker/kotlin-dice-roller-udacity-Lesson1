@@ -9,7 +9,7 @@ Dice Roller is a simple app that rolls a six sided die.
 
 ## Screenshots and Walkthrough
 
-![Screenshot1](screenshots/screen0.png) 
+
 ![Walkthrough](screenshots/diceRoller.gif) 
 
 
